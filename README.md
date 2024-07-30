@@ -1,3 +1,5 @@
+Here's the formatted README file for the **Career Guidance by AI** project:
+
 ---
 
 # Career Guidance by AI
@@ -102,3 +104,5 @@ Feel free to submit issues or pull requests. Contributions to improve the applic
 Place your OpenAI API key in the `.env` file to ensure the application functions correctly.
 
 ---
+
+Feel free to adjust any details as needed!
