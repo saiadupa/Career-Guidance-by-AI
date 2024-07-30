@@ -1,4 +1,3 @@
-Here's the formatted README file for the **Career Guidance by AI** project:
 
 ---
 
@@ -105,4 +104,3 @@ Place your OpenAI API key in the `.env` file to ensure the application functions
 
 ---
 
-Feel free to adjust any details as needed!
