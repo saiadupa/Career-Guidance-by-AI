@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 4. **Set Up Environment Variables**
 
-   Place your OpenAI API key in `.env` file in the project directory:
+   Place your OpenAI API key in a `.env` file in the project directory:
 
    ```
    OPENAI_API_KEY=your_openai_api_key_here
